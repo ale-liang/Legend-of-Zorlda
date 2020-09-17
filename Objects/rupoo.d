@@ -1,0 +1,13 @@
+.\objects\rupoo.o: rupoo.c
+.\objects\rupoo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rupoo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\rupoo.o: zstructs.h
+.\objects\rupoo.o: rupoo.h
+.\objects\rupoo.o: images.h
+.\objects\rupoo.o: entity.h
+.\objects\rupoo.o: player.h
+.\objects\rupoo.o: stage.h
+.\objects\rupoo.o: entity.h
+.\objects\rupoo.o: proj.h
+.\objects\rupoo.o: rupoo.h
+.\objects\rupoo.o: player.h

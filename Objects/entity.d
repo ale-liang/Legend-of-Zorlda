@@ -1,0 +1,16 @@
+.\objects\entity.o: entity.c
+.\objects\entity.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\entity.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\entity.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\entity.o: ../inc/tm4c123gh6pm.h
+.\objects\entity.o: zstructs.h
+.\objects\entity.o: ST7735.h
+.\objects\entity.o: entity.h
+.\objects\entity.o: player.h
+.\objects\entity.o: images.h
+.\objects\entity.o: stage.h
+.\objects\entity.o: entity.h
+.\objects\entity.o: proj.h
+.\objects\entity.o: rupoo.h
+.\objects\entity.o: player.h
+.\objects\entity.o: Random.h

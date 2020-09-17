@@ -1,0 +1,13 @@
+.\objects\proj.o: proj.c
+.\objects\proj.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\proj.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\proj.o: zstructs.h
+.\objects\proj.o: entity.h
+.\objects\proj.o: player.h
+.\objects\proj.o: images.h
+.\objects\proj.o: stage.h
+.\objects\proj.o: entity.h
+.\objects\proj.o: proj.h
+.\objects\proj.o: rupoo.h
+.\objects\proj.o: player.h
+.\objects\proj.o: ST7735.h
